@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "786733007881",
+    "project_id": "al-gareda",
+    "storage_bucket": "al-gareda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786733007881:android:b28aa2ba8efdc5f36ca4d8",
+        "android_client_info": {
+          "package_name": "com.example.the_news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786733007881-tqrd2fm89jv02dipktsmb49k94nu6hd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKTgMvlFOmFGIN3u-DtRkxTGKcWfosm0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786733007881-tqrd2fm89jv02dipktsmb49k94nu6hd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
