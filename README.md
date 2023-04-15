@@ -1,4 +1,4 @@
-# the_news
+# Al-Garida
 
 A new Flutter project.
 
