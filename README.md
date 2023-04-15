@@ -9,4 +9,4 @@ To enhance the user experience and ensure seamless functionality, the app is bui
 
 The app's user-friendly interface and features, combined with its reliable news sources and seamless functionality, make it an excellent choice for anyone looking to stay informed and up-to-date on the latest news in Egypt.
 
-<img src="https://user-images.githubusercontent.com/73830725/232253008-e7e7e9de-6850-4b20-bc08-1d4bc5dfba84.jpg" width="3000" height="1500"/>
+<img src="https://user-images.githubusercontent.com/73830725/232253008-e7e7e9de-6850-4b20-bc08-1d4bc5dfba84.jpg" width="5000" height="1500"/>
